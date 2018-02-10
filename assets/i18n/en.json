@@ -1,0 +1,43 @@
+{
+  "addressBook": {
+    "title": "Address Book",
+    "copyright": "2018 VMware",
+    "langs": {
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "error.emptyAddress": "Addess cannot be empty.",
+  "addressTable": {
+    "id": "ID",
+    "name": "Name",
+    "location": "Location",
+    "office": "Office",
+    "phone": "Phone",
+    "cell": "Cell"
+  },
+  "toolbar": {
+    "add": "Add",
+    "update": "Update",
+    "delete": "Delete"
+  },
+  "datagrid": {
+    "error": {
+      "requiredField": "Required field \"{{field}}\" cannot be empty."
+    }
+  },
+  "dialog": {
+    "confirm": "OK",
+    "cancel": "Cancel"
+  },
+  "deleteDialog":  {
+    "title": {
+      "single": "Delete Address - {{name}}",
+      "multi": "Delete Addresses - {{number}} People"
+    },
+    "message": {
+      "single": "The address for {{name}} will be deleted. Continue?",
+      "multi": "The addresses for those {{number}} people will be deleted. Continue?"
+    }
+  }
+}

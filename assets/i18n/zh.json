@@ -1,0 +1,43 @@
+{
+  "addressBook": {
+    "title": "地址簿",
+    "copyright": "2018 VMware",
+    "langs": {
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "error.emptyAddress": "联系地址不能为空",
+  "addressTable": {
+    "id": "ID",
+    "name": "姓名",
+    "location": "城市",
+    "office": "办公室",
+    "phone": "电话",
+    "cell": "手机"
+  },
+  "toolbar": {
+    "add": "添加",
+    "update": "更新",
+    "delete": "删除"
+  },
+  "datagrid": {
+    "error": {
+      "requiredField": "地址项 \"{{field}}\" 不能为空。"
+    }
+  },
+  "dialog": {
+    "confirm": "确认",
+    "cancel": "取消"
+  },
+  "deleteDialog":  {
+    "title": {
+      "single": "删除地址 - {{name}}",
+      "multi": "批量删除地址 - 共{{number}}人"
+    },
+    "message": {
+      "single": "即将删除{{name}}的地址信息。确定删除吗？",
+      "multi": "即将删除{{number}}个人的地址信息。确定删除吗？"
+    }
+  }
+}
