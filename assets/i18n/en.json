@@ -14,6 +14,7 @@
     "location": "Location",
     "office": "Office",
     "phone": "Phone",
+    "officePhone": "Office Ext.",
     "cell": "Cell"
   },
   "toolbar": {
@@ -23,7 +24,8 @@
   },
   "datagrid": {
     "error": {
-      "requiredField": "Required field \"{{field}}\" cannot be empty."
+      "requiredField": "Required field \"{{field}}\" cannot be empty.",
+      "invalidField": "The value of \"{{field}}\" field is invalid."
     }
   },
   "dialog": {

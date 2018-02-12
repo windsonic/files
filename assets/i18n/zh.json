@@ -14,6 +14,7 @@
     "location": "城市",
     "office": "办公室",
     "phone": "电话",
+    "officePhone": "分机",
     "cell": "手机"
   },
   "toolbar": {
@@ -23,7 +24,8 @@
   },
   "datagrid": {
     "error": {
-      "requiredField": "地址项 \"{{field}}\" 不能为空。"
+      "requiredField": "地址项 \"{{field}}\" 不能为空。",
+      "invalidField": "地址项\"{{field}}\"的输入格式有误。"
     }
   },
   "dialog": {
