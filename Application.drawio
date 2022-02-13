@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T10:13:59.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="eCUWvXpHdW46OMRn2cVH" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T10:15:19.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="m1SeqxKT3So0mBRXBPDE" version="16.5.6" type="github">
   <diagram id="AxXM6GgRUO09YLC4cVxi" name="Page-1">
     <mxGraphModel dx="1690" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eWaai_W9yoFiloG1qLoo-25" value="Vertical Layout" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-25" value="Vertical Layout" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-815" y="-1160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-26" value="Splitter" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;dashPattern=1 1;" parent="1" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-26" value="Splitter" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;dashPattern=1 1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-815" y="-1120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-6" value="appBuilding.vew" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="10" y="20" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="20" y="40" width="770" height="460" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-9" value="&lt;span&gt;AppBuildingDesignTimeToolBar&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-8" value="Toolbar: oToolbarContainer" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="30" y="55" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="30" y="90" width="750" height="400" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-12" value="Outline Container: createOutlineContainer()" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;dashPattern=1 1;rotation=90;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="-65" y="220" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="120" y="100" width="650" height="380" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="k0U_fyirmIOrg5pe5Uyk-2" value="Workbench.view" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-810" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0U_fyirmIOrg5pe5Uyk-4" value="&lt;h1&gt;story.view&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="100" width="660" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
