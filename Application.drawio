@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T10:15:19.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="m1SeqxKT3So0mBRXBPDE" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T10:15:53.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="bkrzaieZBMzLQdE5y4Qr" version="16.5.6" type="github">
   <diagram id="AxXM6GgRUO09YLC4cVxi" name="Page-1">
     <mxGraphModel dx="1690" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-31" value="appBuilding.vew" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-805" y="-380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-795" y="-360" width="770" height="350" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-33" value="AppBuildingToolBar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-46" value="Runtime Container: oRuntimeContainer" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-785" y="-290" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-50" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1" connectable="0">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-50" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-815" y="-1000" width="810" height="520" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-23" value="Info Page Container: createInfoPageContainer" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="130" y="445" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-24" value="&lt;h1&gt;story.view&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-24" value="&lt;h1&gt;story.view&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eWaai_W9yoFiloG1qLoo-50" vertex="1">
           <mxGeometry x="160" y="220" width="560" height="190" as="geometry" />
         </mxCell>
         <mxCell id="eWaai_W9yoFiloG1qLoo-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="eWaai_W9yoFiloG1qLoo-52" value="Page Container: createPageContainer()" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="-270" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eWaai_W9yoFiloG1qLoo-53" value="&lt;h1&gt;story.view&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="eWaai_W9yoFiloG1qLoo-53" value="&lt;h1&gt;story.view&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-750" y="-240" width="660" height="190" as="geometry" />
         </mxCell>
         <mxCell id="k0U_fyirmIOrg5pe5Uyk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
