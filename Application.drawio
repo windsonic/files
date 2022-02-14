@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T05:41:31.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="PeuujXl4uJN-1iS_JX64" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T05:42:36.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="T-mIELCr8SBeW7cEO9HP" version="16.5.6" type="github">
   <diagram id="AxXM6GgRUO09YLC4cVxi" name="Page-1">
     <mxGraphModel dx="2202" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,8 +253,8 @@
         <mxCell id="k0U_fyirmIOrg5pe5Uyk-52" value="Pages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k0U_fyirmIOrg5pe5Uyk-53">
           <mxGeometry x="45.51724137931035" y="16.666666666666668" width="284.48275862068965" height="33.333333333333336" as="geometry" />
         </mxCell>
-        <mxCell id="k0U_fyirmIOrg5pe5Uyk-54" value="Story 1.0 Specific" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="40" width="170" height="30" as="geometry" />
+        <mxCell id="k0U_fyirmIOrg5pe5Uyk-54" value="Story 1.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k0U_fyirmIOrg5pe5Uyk-55" value="&lt;font color=&quot;#000000&quot;&gt;appBuilding.controller&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-590" y="920" width="140" height="30" as="geometry" />
