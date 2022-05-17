@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T13:36:16.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="vIkU56HfVeu7pyVAjlng" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T13:36:55.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="6_RDhr2Bs5U3w4io3JUv" version="17.4.2" type="github">
   <diagram id="JV8tSt_FNG0pcoe7rwN4" name="Page-1">
     <mxGraphModel dx="940" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="250" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-23" value="Unified Store Transaction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;spacingLeft=20;" vertex="1" parent="1">
-          <mxGeometry x="490" y="50" width="180" height="140" as="geometry" />
+          <mxGeometry x="270" y="50" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;rounded=0;jumpStyle=none;" edge="1" parent="1" target="_AuHTWiE68bdqg2kIRyq-3">
           <mxGeometry relative="1" as="geometry">
