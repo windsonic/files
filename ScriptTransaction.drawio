@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T13:38:14.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="lybbBhppqWIweVxIzFsi" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T13:46:02.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="tFFsdsj9LLotjPfEVgY2" version="17.4.2" type="github">
   <diagram id="JV8tSt_FNG0pcoe7rwN4" name="Page-1">
     <mxGraphModel dx="940" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-62" value="Script Runtime" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-61" value="Script Runtime" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="140" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-39" value="processScriptTransaction.withCustomHandler" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="280" width="400" height="180" as="geometry" />
+          <mxGeometry x="270" y="280" width="410" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-23" value="Unified Store Transaction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;spacingLeft=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="50" width="400" height="140" as="geometry" />
+          <mxGeometry x="270" y="50" width="410" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;rounded=0;jumpStyle=none;" edge="1" parent="1" target="_AuHTWiE68bdqg2kIRyq-3">
           <mxGeometry relative="1" as="geometry">
@@ -19,9 +25,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="140" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_AuHTWiE68bdqg2kIRyq-2" value="Script Runtime" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="299" y="80" width="171" height="80" as="geometry" />
@@ -55,8 +58,8 @@
         <mxCell id="_AuHTWiE68bdqg2kIRyq-14" value="getState" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_AuHTWiE68bdqg2kIRyq-20" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-20" value="Store Entity Plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="73" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-24" value="StoreWrapper" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="140" width="90" height="20" as="geometry" />
@@ -71,8 +74,8 @@
             <mxPoint x="200" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_AuHTWiE68bdqg2kIRyq-28" value="Script Runtime" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="100" height="80" as="geometry" />
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-28" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="342" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="299" y="350" width="171" height="80" as="geometry" />
@@ -96,8 +99,8 @@
         <mxCell id="_AuHTWiE68bdqg2kIRyq-36" value="getState" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_AuHTWiE68bdqg2kIRyq-37" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-37" value="Store Entity Plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="341" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-38" value="StoreWrapper" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="90" height="20" as="geometry" />
@@ -108,8 +111,10 @@
         <mxCell id="_AuHTWiE68bdqg2kIRyq-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_AuHTWiE68bdqg2kIRyq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="_AuHTWiE68bdqg2kIRyq-44" target="_AuHTWiE68bdqg2kIRyq-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="_AuHTWiE68bdqg2kIRyq-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-48" value="dispatch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_AuHTWiE68bdqg2kIRyq-47">
           <mxGeometry x="-0.16" y="1" relative="1" as="geometry">
@@ -136,11 +141,38 @@
         <mxCell id="_AuHTWiE68bdqg2kIRyq-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-57" value="Store Entity Plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="83" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-58" value="Store Entity Plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="93" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-55" value="getState" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_AuHTWiE68bdqg2kIRyq-56" value="dispatch" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-59" value="Store Entity Plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="351" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-60" value="Store Entity Plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="361" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-64" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-2" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-63" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-65" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="352" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_AuHTWiE68bdqg2kIRyq-66" value="Script API&lt;br&gt;Implementations" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="362" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
