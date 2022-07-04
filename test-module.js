@@ -1,7 +1,12 @@
-const getLink = (title, value) => {
-	return `https://raw.githubusercontent.com/windsonic/files/master/${title}/${value}`;
-};
-
-export {
-	getLink
-};
+sap.importAddOnExtensions([
+    {
+        extensionPoint: 'com.sap.addOn.viz.tooltip.tooltipLink',
+        description: 'Add links on chart tooltip',
+        getTooltipLink: function () {
+            return {
+                url: 'http://www.sap.com',
+                label: 'SAPl Official'
+            };
+        }
+    }
+]);
