@@ -4,7 +4,7 @@ if (sap && sap.importAddOnExtensions) {
 	sap.importAddOnExtensions(
 		[
 			{
-				extensionPoint: 'com.sap.addOn.viz.tooltip.tooltipLink',
+				extensionPoint: 'sap.addOn.viz.tooltip.tooltipLink',
 				description: 'Add links on chart tooltip',
 				factory: () => {
 					getTooltipLink: () => {
