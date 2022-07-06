@@ -7,12 +7,14 @@ if (sap && sap.importAddOnExtensions) {
 				extensionPoint: 'sap.addOn.viz.tooltip.tooltipLink',
 				description: 'Add links on chart tooltip',
 				factory: () => {
-					getTooltipLink: () => {
-						return {
-							url: 'http://www.sap.com',
-							label: 'SAPl Official'
-						};
-					}
+					return {
+						getTooltipLink: () => {
+							return {
+								url: 'http://www.sap.com',
+								label: 'SAPl Official'
+							};
+						}
+					};
 				}
 			}
 		]
