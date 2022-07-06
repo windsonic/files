@@ -3,13 +3,13 @@ if (sap && sap.importAddOnExtensions) {
         {
             extensionPoint: 'com.sap.addOn.viz.tooltip.tooltipLink',
             description: 'Add links on chart tooltip',
-            factory: {
-                getTooltipLink: function () {
+            factory: function () {
+                getTooltipLink: (function () {
                     return {
                         url: 'http://www.sap.com',
                         label: 'SAPl Official'
                     };
-                }
+                });
             }
         }
     ]);
