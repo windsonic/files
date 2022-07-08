@@ -1,5 +1,3 @@
-
-
 if (sap && sap.importAddOnExtensions) {
     sap.importAddOnExtensions([
         {
@@ -7,10 +5,10 @@ if (sap && sap.importAddOnExtensions) {
             description: 'Add links on chart tooltip',
             factory: function () {
                 return {
-                    getTooltipLink: function () {
+                    getTooltipLink: function (title, value) {
                         return {
-                            url: 'http://www.sap.com',
-                            label: 'SAPl Official'
+                            url: "http://www.sap.com/".concat(value ? value : ''),
+                            label: "".concat(title ? title : 'Link')
                         };
                     }
                 };
