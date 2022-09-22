@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T03:56:26.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="9k9Glf9xl_bqKWY9o29w" type="github"><diagram id="Rz1d_GkH_12xIBsdIr6X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-22T05:19:02.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="u07RVz2VdsddDXngyNSW" version="20.3.3" type="github">
+  <diagram id="Rz1d_GkH_12xIBsdIr6X" name="Page-1">
+    <mxGraphModel dx="1298" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-1" value="sap.fpa.ui.story.controls.&lt;br&gt;&lt;b&gt;SegmentedEditViewModeToggleButton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-2" value="sap.fpa.ui.story2.controls.&lt;br&gt;&lt;b&gt;SegmentedEditViewModeToggleButton&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-3" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-2" target="YwSIs5ZT-lAHYrTxwUML-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="410" as="sourcePoint" />
+            <mxPoint x="220" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-5" target="YwSIs5ZT-lAHYrTxwUML-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-5" value="SegmentedEditViewModeToggleButton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-6" value="from Edit to View?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-9" value="Open view mode in new browser window&lt;br&gt;(this._runApp())" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-10" value="Reload story in edit mode&lt;br&gt;(Utils.navigateToAppBuilding(params))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-13" target="YwSIs5ZT-lAHYrTxwUML-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-13" value="SegmentedEditViewModeToggleButton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="680" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-14" value="DocumentContext" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-17" value="fireUIEvent: StoryIntegration.UI_EVENTS.TOGGLE_EDITABLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="740" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="YwSIs5ZT-lAHYrTxwUML-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-22" value="addUIListener: StoryIntegration.UI_EVENTS.TOGGLE_EDITABLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="845" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-23" target="YwSIs5ZT-lAHYrTxwUML-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-23" value="sap.fpa.ui.story.Story" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="890" width="220" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-24" value="toggleEditMode()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;" vertex="1" parent="YwSIs5ZT-lAHYrTxwUML-23">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="452" y="1030" as="sourcePoint" />
+            <mxPoint x="452" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-27" value="DocumentStore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="990" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-29" value="dispatch(DocumentActions.toggleEditMode)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="950" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-30" target="YwSIs5ZT-lAHYrTxwUML-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-30" value="Unified Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1080" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-32" value="dispatch(StoryInterface.story.v2.view.mode.internal.toggleEditable)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="444" y="1040" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-33" target="YwSIs5ZT-lAHYrTxwUML-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-33" value="External Writer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YwSIs5ZT-lAHYrTxwUML-35" target="YwSIs5ZT-lAHYrTxwUML-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-35" value="StoryComponent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-38" value="setStoryMode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1095" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-41" value="DocumentActions.internalSetEditable(bEditable));" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="960" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387" y="1031" as="sourcePoint" />
+            <mxPoint x="387" y="1081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwSIs5ZT-lAHYrTxwUML-43" value="refreshExternalState" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1043" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
