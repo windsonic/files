@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T14:24:41.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BE3zEQAhzi3tLwIRV7j2" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T14:24:51.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DFSi9yg-Abm7igTghD9b" version="20.3.3" type="github">
   <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
     <mxGraphModel dx="2150" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -200,9 +200,6 @@
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-84" value="Custom components" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-82">
           <mxGeometry x="31" width="128" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="7BpaLDSTiaehPH6s4Fv7-93" value="Widget Add-On Registry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="290" y="195" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-103" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
