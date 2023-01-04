@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T15:32:32.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_p3_1Kpu28JPVeNe5Dgm" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T15:52:30.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hSj6q47MZdnX75bohKTn" version="20.3.3" type="github">
   <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
     <mxGraphModel dx="1910" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,8 +202,8 @@
             <mxPoint x="527.75" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BpaLDSTiaehPH6s4Fv7-104" value="showBuildPanel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="522" y="514" width="103" height="26" as="geometry" />
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-104" value="setSidePanelState" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="527" y="514" width="117" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-106" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="570" y="562" width="189" height="172" as="geometry" />
