@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T09:18:49.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lK7DyN4xmKUv7J7dssBC" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T09:21:32.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="l_ZwFNl_-ALUJUrR7mCJ" version="20.3.3" type="github">
   <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
     <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-17" value="WidgetAddOnContainerStub" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="200" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-1" value="EPM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="100" height="60" as="geometry" />
         </mxCell>
