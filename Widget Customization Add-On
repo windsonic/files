@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T07:55:59.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.3.3" etag="enKvwjHlT8WchkK0keem" type="github"><diagram id="XrokjYwm6DKxdokpXTqS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T09:18:49.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lK7DyN4xmKUv7J7dssBC" version="20.3.3" type="github">
+  <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
+    <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-1" value="EPM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-2" target="7BpaLDSTiaehPH6s4Fv7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-8" value="Upload/Delete Add-Ons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="85" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-9" target="7BpaLDSTiaehPH6s4Fv7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443" y="280" as="targetPoint" />
+            <mxPoint x="443" y="225" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="443" y="250" />
+              <mxPoint x="443" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-9" value="Widget Add-On Registry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="185" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-11" value="Get Add-Ons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-13" value="registered as external object" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="235" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.338;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-14" target="7BpaLDSTiaehPH6s4Fv7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-14" value="App Store Entity Plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-16" value="getWidgetAddOns" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="235" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
