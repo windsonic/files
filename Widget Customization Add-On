@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T12:49:45.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nqwZsLkzkCrbLObP8Mof" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T13:08:38.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jHEkP8dXk-XEq88ocOSw" version="20.3.3" type="github">
   <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
-    <mxGraphModel dx="1698" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,10 +165,10 @@
           <mxGeometry x="283" y="514" width="199" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-67" value="Custom Extension &lt;br&gt;Build Panel Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="476" y="580" width="230" height="57" as="geometry" />
+          <mxGeometry x="488" y="580" width="284" height="57" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-68" value="Custom Extension &lt;br&gt;Styling Panel Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="656" width="230" height="57" as="geometry" />
+          <mxGeometry x="488" y="656" width="284" height="57" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-71" value="loadComponent(type = &#39;styling&#39;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="596" y="794" width="186" height="26" as="geometry" />
