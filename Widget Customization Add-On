@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T12:35:08.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Uufc9bGBpvGaH_evKRKX" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T12:42:47.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="B5_no8cIlqT0MtbseXU-" version="20.3.3" type="github">
   <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
     <mxGraphModel dx="2125" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,12 @@
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-19" value="WidgetAddOnStub" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;spacingBottom=5;align=center;spacingRight=15;" vertex="1" parent="1">
           <mxGeometry x="194" y="390" width="460" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="7BpaLDSTiaehPH6s4Fv7-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="390" as="sourcePoint" />
+            <mxPoint x="410" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-21" value="Widget Add-On Store Entity Plugin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="208" y="400" width="421" height="40" as="geometry" />
         </mxCell>
@@ -76,11 +82,10 @@
             <mxPoint x="244" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BpaLDSTiaehPH6s4Fv7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.651;exitY=-0.006;exitDx=0;exitDy=0;fontColor=#000000;entryX=0.178;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-28" target="7BpaLDSTiaehPH6s4Fv7-21">
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.651;exitY=-0.006;exitDx=0;exitDy=0;fontColor=#000000;entryX=0.178;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-28" target="7BpaLDSTiaehPH6s4Fv7-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295.5" y="571" as="sourcePoint" />
             <mxPoint x="295.9200000000001" y="443.52" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-28" value="WidgetAddOnExtensionContainer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;verticalAlign=bottom;fontColor=#ffffff;" vertex="1" parent="1">
@@ -92,7 +97,7 @@
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-36" value="Custom Extension Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="161" y="632" width="182" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="7BpaLDSTiaehPH6s4Fv7-40" value="WidgetAddOnUtils" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-40" value="WidgetAddOnUtils (from SDKUtils)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="124" y="831" width="607" height="59" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-42" target="7BpaLDSTiaehPH6s4Fv7-21">
@@ -157,8 +162,8 @@
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-63" value="(type=&#39;main&#39;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="583" y="1007" width="86" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7BpaLDSTiaehPH6s4Fv7-65" value="subscribeExtensionSettingsChange" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="283" y="514" width="207" height="26" as="geometry" />
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-65" value="subscribe to getExtensionSettings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="283" y="514" width="199" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-67" value="Custom Extension &lt;br&gt;Build Panel Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="476" y="580" width="230" height="57" as="geometry" />
@@ -176,6 +181,33 @@
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-73" value="setExtensionSettings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="598" y="472" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="798" y="89" width="161" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-78">
+          <mxGeometry width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-77" value="Modified components" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-78">
+          <mxGeometry x="29" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-79" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="798" y="124" width="161" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-79">
+          <mxGeometry width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-81" value="New components" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-79">
+          <mxGeometry x="40" width="111" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-82" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="798" y="159" width="161" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-82">
+          <mxGeometry width="29" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-84" value="Custom components" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="7BpaLDSTiaehPH6s4Fv7-82">
+          <mxGeometry x="31" width="128" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
