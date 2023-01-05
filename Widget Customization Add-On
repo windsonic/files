@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T17:12:58.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FReiAFH6QjYP8thtq8q1" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T09:51:43.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PPNU5NcVK_RaJ30Wwz1t" version="20.3.3" type="github">
   <diagram id="XrokjYwm6DKxdokpXTqS" name="Page-1">
     <mxGraphModel dx="1910" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             <mxPoint x="410" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BpaLDSTiaehPH6s4Fv7-21" value="Widget Add-On Store Entity Plugin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="7BpaLDSTiaehPH6s4Fv7-21" value="Widget Add-On Store Entity Plugin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="208" y="400" width="552" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7BpaLDSTiaehPH6s4Fv7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BpaLDSTiaehPH6s4Fv7-30" target="7BpaLDSTiaehPH6s4Fv7-19">
